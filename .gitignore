@@ -9,3 +9,7 @@
 /build
 /captures
 .externalNativeBuild
+
+# IDE
+.idea/
+*.iml
